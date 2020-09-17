@@ -22,8 +22,8 @@
 2.  Go to **[Glitch.com](https://glitch.com)**, click **New Project**, then choose **`Clone from Git Repo`** button (we recommend you to make a Glitch account before doing this)
 3.  Fill the pop-up column with **`https://github.com/HelenaMaydesta/Bot-Coding`** at the field, then click **`OK`**
 4.  Change the project's name to whatever you want (optional)
-5.  Go To .env and click Add a Variable button, type **`TOKEN`** , to the left, and type your bot Token
-5.  And your Discord bot is ready to go!
+5.  Go To .env and click Add a Variable button, type **`TOKEN`** , type your bot Token beside him
+6.  And your Discord bot is ready to go!
 
 _If you have made any changes to the code, don't forget to restart the bot by typing **`refresh`** at the **`Tools > Terminal`** button._
 
