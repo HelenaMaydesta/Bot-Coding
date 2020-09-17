@@ -25,7 +25,7 @@
 
 1.  Create your bot account at **[Discord Developer Portal](https://discordapp.com/developers)**, get the token, and invite him to your server
 2.  Go to **[Glitch.com](https://glitch.com)**, click **New Project**, then choose **`Clone from Git Repo`** button (we recommend you to make a Glitch account before doing this)
-3.  Fill the pop-up column with **`https://github.com/zhycorp/music-bot-example.git`** at the field, then click **`OK`**
+3.  Fill the pop-up column with **`https://github.com/HelenaMaydesta/Bot-Coding`** at the field, then click **`OK`**
 4.  Change the project's name to whatever you want (optional)
 5.  Rename the **`.env_example`** to **`.env`** instead, then specify the Bot Token.
 6.  And your Discord bot is ready to go!
